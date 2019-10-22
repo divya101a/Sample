@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 public class test1 {
 	WebDriver driver;
-	
+	//Test aanotations
 	@BeforeMethod
 	public void setUp() {
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\DivyaA\\Downloads\\chromedriver_\\chromedriver.exe");
